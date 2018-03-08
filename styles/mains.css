@@ -1,24 +1,24 @@
 
 .char1 {
-color:#F7966C;
+color:#EE2630;
 font-size: 100px;
 font-family: 'Poppins', sans-serif;
 }
 
 .char2 {
-color:#5A6BB2;
+color:#003DFF;
 font-size: 30px;
 }
 
 .char3{
-  color:#5A6BB2;
+  color:#EE2630;
   font-size: 50px;
   font-family: 'Poppins', sans-serif;
 
 }
 
 .char4{
-  color:#F7966C;
+  color:#003DFF;
   font-size:70px;
   font-family: 'Fjalla One', sans-serif;
 
@@ -26,32 +26,32 @@ font-size: 30px;
 
 
 .char5 {
-color:#F7966C;
+color:#003DFF;
 font-size: 30px;
+font-family: 'Poppins', sans-serif;
 }
 
 .char6{
-  color:#5A6BB2;
+  color:#EE2630;
   font-size: 50px;
 
 }
 
 .char7{
-  color:#5A6BB2;
+  color:#EE2630;
   font-size:70px;
 
 }
 
 
 
-
 .char8{
-  color: #F7966C;
+  color: #EE2630;
   font-size: 90px;
 
 }
 .char9 {
-color:#F7966C;
+color:#EE2630;
 font-size: 30px;
 }
 
@@ -59,22 +59,93 @@ font-size: 30px;
 
 
 .char10{
-  color:#F7966C;
+  color:#EE2630;
   font-size:70px;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: Fjalla One, sans-serif;
 
 }
 
 
 
 .char11{
-  color: #F7966C;
-  font-size: 90px;
-    font-family: 'Fjalla One', sans-serif;
+  color:#EE2630;
+  font-size:90px;
+    font-family: Fjalla One, sans-serif;
+}
 
+.char12{
+color:#EE2630;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
 }
-.char12 {
-color:#F7966C;
-font-size: 30px;
-  font-family: 'Fjalla One', sans-serif;
+
+.char13{
+color:#003DFF;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
 }
+
+.char14{
+color:#EE2630;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char15{
+color:#EE2630;
+font-size:80px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char16{
+color:#EE2630;
+font-size:60px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char17{
+color:#003DFF;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char18{
+color:#EE2630;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+
+.char19{
+color:#EE2630;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char20{
+color:#003DFF;
+font-size:40px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char21{
+color:#EE2630;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char22{
+color:#003DFF;
+font-size:30px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.char23{
+color:#EE2630;
+font-size:60px;
+  font-family: Fjalla One, sans-serif;
+}
+
+.background-color:  ;
+
+img {width: 150px}

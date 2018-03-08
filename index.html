@@ -4,17 +4,39 @@
     <meta charset="utf-8">
     <title>Lettering</title>
     <link rel="stylesheet" href="styles/mains.css">
+    <link rel="stylesheet" href="styles/colorbox.css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="scripts/jquery.lettering.js"></script>
+    <script src="scripts/jquery.colorbox-min.js"></script>
+
 
 <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
 
+
+
   </head>
   <body>
 
     <h1 class="fancy_title">This is about lettering</h1>
+
+    <a class='gallery' href='images/1.jpg'>
+<img src="images/th1.jpg" alt="jackie">
+    </a>
+
+    <a class='gallery' href='images/2.jpg'>
+<img src="images/th2.jpg" alt="jfk">
+    </a>
+    <a class='gallery' href='images/3.jpg'>
+<img src="images/th3.jpg" alt="jfkbrothers">
+    </a>
+
+
+
+    <script>
+    $('a.gallery').colorbox({rel:'gal'});
+    </script>
 
     <script>
 	  $(document).ready(function() {
